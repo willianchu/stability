@@ -16,7 +16,7 @@ os.environ['STABILITY_HOST'] = 'grpc.stability.ai:443'
 
 # Paste your API Key below.
 
-os.environ['STABILITY_KEY'] = 'key-goes-here'
+os.environ['STABILITY_KEY'] = 'secret'
 
 ## connection
 # Set up our connection to the API.
